@@ -1,2 +1,5 @@
 # Monster-Slayer-game
-Interactive game with lots of functionalities :D
+Minimalistic game created using core functionalities of Vue.js.
+Game have dynamic classes, methods, computed properties and watchers.
+Four different functionalities and dynamic battle log.
+Feel free to download and try it yourself :D
